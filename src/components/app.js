@@ -16,6 +16,8 @@ const fightPockets = [
 	['Harem Girl', 'YR for outfit', 299, '/images/adventureimages/kg_haremgirl.gif'],
 	['Mountain Man', 'YR for 2 of each ore', 565, '/images/adventureimages/mountainman.gif'],
 	['Green Ops Soldier', 'Smoke bomb, olfact', 589, '/images/adventureimages/warhipgr.gif'],
+	['War Hippy (space) cadet', 'YR for outfit', 443, '/images/adventureimages/warhipgr.gif'],
+	['War Pledge', 'YR for outfit', 568, '/images/adventureimages/warhipgr.gif'],
 ];
 
 const camelsToe = ['Camel\'s Toe', '2 stars/lines, olfact', 317, '/images/adventureimages/cameltoe.gif'];
